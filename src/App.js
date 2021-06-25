@@ -1,5 +1,5 @@
 import "./App.css";
-import Homepage from "./website/pages/Homepage";
+import Home from "./website/pages/Home";
 import Projects from "./website/pages/Projects";
 import Other from "./website/pages/Other";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
@@ -11,9 +11,9 @@ const App = () => {
 			<Router>
 				<Nav />
 				<Switch>
-					<Route path="/" exact component={Homepage} />
-					<Route path="/how-it-works" exact component={Projects} />
-					<Route path="/about" exact component={Other} />
+					<Route path="/" exact component={Home} />
+					<Route path="/Projects" exact component={Projects} />
+					<Route path="/Other" exact component={Other} />
 				</Switch>
 			</Router>
 		</>

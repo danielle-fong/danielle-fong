@@ -1,6 +1,6 @@
-import "./Homepage.css";
+import "./Home.css";
 
-function Homepage(){
+function Home(){
     return (
         <>
             <h1 className = "header">Danielle Fong</h1>
@@ -8,4 +8,4 @@ function Homepage(){
     );
 }
 
-export default Homepage;
+export default Home;
