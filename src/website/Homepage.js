@@ -5,5 +5,7 @@ function Homepage(){
         <>
             <h1 className = "header">Danielle Fong</h1>
         </>
-    )
+    );
 }
+
+export default Homepage;
