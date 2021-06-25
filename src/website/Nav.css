@@ -1,32 +1,27 @@
 .nav-container {
-	background: gray;
-	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-	height: 17vh;
-	color: white;
+	background: gainsboro;
+	height: 90px;
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 	align-items: center;
 	position: sticky;
-	top: 0;
-	z-index: 999;
 }
 
 .link-wrapper {
 	display: flex;
-	width: 40%;
+	width:32%;
 }
 
 .nav-link {
 	margin: 20px;
 	text-decoration: none;
-	color: white;
+	color: black;
 }
 
-.homepage-link {
-	max-width: 50px;
-	
-}
-
-.bot {
-	max-width: 80px;
+.logo-link {
+	color: black;
+	font-size: 35px;
+	max-width: 500px;
+	text-decoration: none;
+	padding-left: 30px;
 }
