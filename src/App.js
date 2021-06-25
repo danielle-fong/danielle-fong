@@ -1,7 +1,7 @@
 import "./App.css";
-import Homepage from "./website/Homepage";
-import Projects from "./website/Projects";
-import Other from "./website/Other";
+import Homepage from "./website/pages/Homepage";
+import Projects from "./website/pages/Projects";
+import Other from "./website/pages/Other";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 const App = () => {
