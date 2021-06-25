@@ -1,10 +1,15 @@
-import './App.css';
-import Homepage from ".website/Homepage";
+import "./App.css";
+import Homepage from "./website/Homepage";
 
-function App() {
-  return (
-      <Homepage />
-  );
-}
+const App = () => {
+	return (
+		<>
+			<Router>
+					<Route path="/" exact component={Home} />
+			</Router>
+		</>
+	);
+};
 
 export default App;
+
