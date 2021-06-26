@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/danielle-fong.github.io/static/css/main.a2c51a77.chunk.css",
-    "main.js": "/danielle-fong.github.io/static/js/main.e29beb75.chunk.js",
-    "main.js.map": "/danielle-fong.github.io/static/js/main.e29beb75.chunk.js.map",
-    "runtime-main.js": "/danielle-fong.github.io/static/js/runtime-main.490be06c.js",
-    "runtime-main.js.map": "/danielle-fong.github.io/static/js/runtime-main.490be06c.js.map",
-    "static/js/2.96e7a043.chunk.js": "/danielle-fong.github.io/static/js/2.96e7a043.chunk.js",
-    "static/js/2.96e7a043.chunk.js.map": "/danielle-fong.github.io/static/js/2.96e7a043.chunk.js.map",
-    "index.html": "/danielle-fong.github.io/index.html",
-    "static/css/main.a2c51a77.chunk.css.map": "/danielle-fong.github.io/static/css/main.a2c51a77.chunk.css.map",
-    "static/js/2.96e7a043.chunk.js.LICENSE.txt": "/danielle-fong.github.io/static/js/2.96e7a043.chunk.js.LICENSE.txt"
+    "main.css": "/danielle-fong-pages/static/css/main.a2c51a77.chunk.css",
+    "main.js": "/danielle-fong-pages/static/js/main.e29beb75.chunk.js",
+    "main.js.map": "/danielle-fong-pages/static/js/main.e29beb75.chunk.js.map",
+    "runtime-main.js": "/danielle-fong-pages/static/js/runtime-main.f29c3dc0.js",
+    "runtime-main.js.map": "/danielle-fong-pages/static/js/runtime-main.f29c3dc0.js.map",
+    "static/js/2.96e7a043.chunk.js": "/danielle-fong-pages/static/js/2.96e7a043.chunk.js",
+    "static/js/2.96e7a043.chunk.js.map": "/danielle-fong-pages/static/js/2.96e7a043.chunk.js.map",
+    "index.html": "/danielle-fong-pages/index.html",
+    "static/css/main.a2c51a77.chunk.css.map": "/danielle-fong-pages/static/css/main.a2c51a77.chunk.css.map",
+    "static/js/2.96e7a043.chunk.js.LICENSE.txt": "/danielle-fong-pages/static/js/2.96e7a043.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.490be06c.js",
+    "static/js/runtime-main.f29c3dc0.js",
     "static/js/2.96e7a043.chunk.js",
     "static/css/main.a2c51a77.chunk.css",
     "static/js/main.e29beb75.chunk.js"
