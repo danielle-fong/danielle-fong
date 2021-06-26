@@ -1,7 +1,7 @@
 {
   "name": "website",
   "version": "0.1.0",
-  "homepage": "http://danielle-fong.github.io/danielle-fong.github.io",
+  "homepage": "http://danielle-fong.github.io/danielle-fong-pages",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
