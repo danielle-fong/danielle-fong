@@ -2,8 +2,8 @@ import "./App.css";
 import Home from "./website/pages/Home";
 import Projects from "./website/pages/Projects";
 import Other from "./website/pages/Other";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Nav from "./website/Nav";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 const App = () => {
 	return (

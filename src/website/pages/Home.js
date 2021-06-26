@@ -1,4 +1,5 @@
 import "./Home.css";
+import github from "./github.png"
 
 function Home(){
     return (
@@ -8,9 +9,10 @@ function Home(){
                     <h1 className = "header">ELECTRICAL ENGINEER</h1>
                     <h2 className = "name">Danielle Fong</h2>
                 </div>
-                <div className = "profile-pic">
-                    <h4 className = "image"> insert image here</h4>
-                </div>
+                <img className="profile" src={github}/>
+            </div>
+            <div className = "social">
+                <img className="github" src={github}/>
             </div>
         </>
     );
