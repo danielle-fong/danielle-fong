@@ -4,7 +4,7 @@ import devpost from "./devpost.png"
 import resume from "./resume.png"
 import email from "./email.png"
 import linkedin from "./linkedin.png"
-import DanielleFong from "./DanielleFong.pdf"
+
 
 function Home(){
     return (
