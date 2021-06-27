@@ -3,13 +3,18 @@
     height: 430px;
 }
 
+
+.intro-text {
+    float: left;
+}
+
 .header {
     color: grey;
     font-family: Arial, Helvetica, sans-serif;
 	font-size: 20px;
 	text-align: left;
     padding-top: 180px;
-    padding-left: 330px;
+    padding-left: 350px;
 }
 
 .name {
@@ -17,22 +22,52 @@
     font-family: Arial, Helvetica, sans-serif;
 	font-size: 53px;
 	text-align: left;
-    padding-left:222px;
+    padding-left: 240px;
+
 }
 
 .profile {
-    max-width: 50px;
+    max-width: 300px;
+    padding-top: 65px;
     padding-right: 300px;
-    display: flex;
-    margin-left: auto;
+    float: right;
 
 }
 
 .social{
-    background: green;
-    height: 100px;
+    background: grey;
+    height: 300px;
 }
 
 .github{
-    max-width: 50px;
+    max-width: 80px;
+    padding-top: 100px;
+    float: inline-start
 }
+
+.linkedin{
+    max-width: 80px;
+    padding-top: 100px;
+    float: inline-start
+}
+
+.resume{
+    max-width: 80px;
+    padding-top: 100px;
+    float: inline-start
+}
+
+.email{
+    max-width: 80px;
+    padding-top: 100px;
+    float: inline-start
+}
+
+.devpost{
+    max-width: 80px;
+    padding-top: 100px;
+    float: inline-start
+}
+
+
+
