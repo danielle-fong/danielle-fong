@@ -9,7 +9,7 @@
 }
 
 .header {
-    color: grey;
+    color: #B2D2A4;
     font-family: Arial, Helvetica, sans-serif;
 	font-size: 20px;
 	text-align: left;
@@ -35,39 +35,51 @@
 }
 
 .social{
-    background: grey;
-    height: 300px;
+    background: #B2D2A4;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
 }
 
 .github{
+    filter: invert(1);
     max-width: 80px;
-    padding-top: 100px;
-    float: inline-start
-}
-
-.linkedin{
-    max-width: 80px;
-    padding-top: 100px;
-    float: inline-start
-}
-
-.resume{
-    max-width: 80px;
-    padding-top: 100px;
-    float: inline-start
-}
-
-.email{
-    max-width: 80px;
-    padding-top: 100px;
+    padding-top: 85px;
+    padding-right: 50px;
     float: inline-start
 }
 
 .devpost{
+    filter: invert(1);
     max-width: 80px;
-    padding-top: 100px;
+    padding-top: 85px;
+    padding-right: 50px;
     float: inline-start
 }
 
+.resume{
+    filter: invert(1);
+    max-width: 80px;
+    padding-top: 85px;
+    padding-right: 50px;
+    float: inline-start
+}
+
+.email{
+    filter: invert(1);
+    max-width: 80px;
+    padding-top: 85px;
+    padding-right: 50px;
+    float: inline-start
+}
+
+.linkedin{
+    filter: invert(1);
+    max-width: 80px;
+    padding-top: 85px;
+    padding-right: 50px;
+    float: inline-start
+}
 
 

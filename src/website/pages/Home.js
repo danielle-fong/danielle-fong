@@ -1,9 +1,10 @@
 import "./Home.css";
 import github from "./github.png"
-import linkedin from "./linkedin.png"
+import devpost from "./devpost.png"
 import resume from "./resume.png"
 import email from "./email.png"
-import devpost from "./devpost.png"
+import linkedin from "./linkedin.png"
+import DanielleFong from "./DanielleFong.pdf"
 
 function Home(){
     return (
@@ -16,11 +17,11 @@ function Home(){
                 <img className="profile" src={github}/>
             </div>
             <div className = "social">
-                <img className="github" src={github}/>
-                <img className="linkedin" src={linkedin}/>
-                <img className="resume" src={resume}/>
-                <img className="email" src={email}/>
-                <img className="devpost" src={devpost}/>
+                <a href="https://github.com/danielle-fong"><img className="github" src={github}/></a>
+                <a href="https://devpost.com/danielle-fong"><img className="devpost" src={devpost}/></a>
+                <a href="DanielleFong.pdf"><img className="resume" src={resume}/></a>
+                <a href = "mailto: daniellefong13@gmail.com"><img className="email" src={email}/></a>
+                <a href="https://www.linkedin.com/in/danielle-fong/"><img className="linkedin" src={linkedin}/></a>
             </div>
         </>
     );
