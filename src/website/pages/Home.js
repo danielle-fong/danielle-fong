@@ -13,6 +13,11 @@ function Home(){
                 <div className = "intro-text">
                     <h1 className = "header">ELECTRICAL ENGINEER</h1>
                     <h2 className = "name">Danielle Fong</h2>
+                    <h3 className = "text">
+                        Welcome to my website! I'm Danielle, a second year Electrical Engineering student studying at McMaster University.
+                        I have worked on projects using Python, ReactJS, front-end development and circuit design which has allowed me to enhance my technical skills.
+                        Check out the projects I've worked on and more about me on my other pages. Below are the links to my social, feel free to contact me!
+                        </h3>
                 </div>
                 <img className="profile" src={github}/>
             </div>
@@ -23,6 +28,7 @@ function Home(){
                 <a href = "mailto: daniellefong13@gmail.com"><img className="email" src={email}/></a>
                 <a href="https://www.linkedin.com/in/danielle-fong/"><img className="linkedin" src={linkedin}/></a>
             </div>
+
         </>
     );
 }

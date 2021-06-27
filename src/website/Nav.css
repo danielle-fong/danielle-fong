@@ -1,5 +1,5 @@
 .nav-container {
-	background: gainsboro;
+	background: #B2D2A4;
 	height: 90px;
 	display: flex;
 	justify-content: space-between;
@@ -15,11 +15,11 @@
 .nav-link {
 	margin: 20px;
 	text-decoration: none;
-	color: black;
+	color: white;
 }
 
 .logo-link {
-	color: black;
+	color: white;
 	font-size: 35px;
 	max-width: 500px;
 	text-decoration: none;
