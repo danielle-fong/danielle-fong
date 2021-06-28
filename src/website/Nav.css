@@ -1,6 +1,7 @@
+
 .nav-container {
-	background: #B2D2A4;
-	height: 90px;
+	background: #acbda1;
+	height: 100px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -10,6 +11,7 @@
 .link-wrapper {
 	display: flex;
 	width:32%;
+	font-size: 17px;
 }
 
 .nav-link {
@@ -18,10 +20,8 @@
 	color: white;
 }
 
-.logo-link {
-	color: white;
-	font-size: 35px;
-	max-width: 500px;
-	text-decoration: none;
-	padding-left: 30px;
+.logo {
+	max-width: 90px;
+	align-content: center;
+	padding-left: 20px;
 }
