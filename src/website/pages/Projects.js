@@ -3,7 +3,9 @@ import "./Projects.css";
 function Projects(){
     return (
         <>
-            <h1 className = "header">My Projects</h1>
+            <div className = "block">
+                <h1 className = "title-projects">My Projects</h1>
+            </div>            
         </>
     )
 }

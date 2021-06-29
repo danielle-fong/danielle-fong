@@ -1,0 +1,13 @@
+.block{
+    background-color: white;
+    height: 300px;
+}
+
+.title-projects{
+    color: #acbda1;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 20px;
+    justify-content: center;
+    display: flex;
+}
