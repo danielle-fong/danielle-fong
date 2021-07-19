@@ -1,4 +1,5 @@
 import "./Home.css";
+import profile from "./profile.png"
 import github from "./github.png"
 import devpost from "./devpost.png"
 import resume from "./resume.png"
