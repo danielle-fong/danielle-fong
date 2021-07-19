@@ -19,7 +19,7 @@ function Home(){
                         Check out the projects I've worked on and more about me on my other pages. Below are the links to my social, feel free to contact me!
                         </h3>
                 </div>
-                <img className="profile" src={github}/>
+                <img className="profile" src={profile}/>
             </div>
             <div className = "social">
                 <a href="https://github.com/danielle-fong"><img className="github" src={github}/></a>
