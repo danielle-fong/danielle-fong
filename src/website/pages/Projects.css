@@ -5,11 +5,12 @@
 
 .title-projects{
     color: #acbda1;
-    font-size: 40px;
+    font-size: 60px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    padding-left: 20px;
     justify-content: center;
     display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .row1{
@@ -41,10 +42,10 @@
 }
 
 .colourme{
-    width: 530px;
-    height: 300px;
+    width: 550px;
+    height: 320px;
     transition: .5s ease;
-    margin: 15px;
+    margin: 20px;
 }
 
 .p2{
@@ -70,10 +71,10 @@
 }
 
 .recycle{
-    width: 530px;
-    height: 300px;
+    width: 550px;
+    height: 320px;
     transition: .5s ease;
-    margin: 15px;
+    margin: 20px;
 }
 
 
@@ -106,10 +107,10 @@
 }
 
 .marblemod{
-    width: 530px;
-    height: 300px;
+    width: 550px;
+    height: 320px;
     transition: .5s ease;
-    margin: 15px;
+    margin: 20px;
 }
 
 .p4{
@@ -135,8 +136,8 @@
 }
 
 .vbook{
-    width: 530px;
-    height: 300px;
+    width: 550px;
+    height: 320px;
     transition: .5s ease;
-    margin: 15px;
+    margin: 20px;
 }
