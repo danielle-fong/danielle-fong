@@ -141,3 +141,38 @@
     transition: .5s ease;
     margin: 20px;
 }
+
+.row3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p5{
+    position: relative;
+    text-align: center;
+    color: transparent;
+}
+
+.p5:hover .cadmodel{
+    opacity: 0.3;
+}
+
+.p5:hover .t5{
+    color: black;
+}
+
+.t5{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: .5s ease;
+}
+
+.cadmodel{
+    width: 550px;
+    height: 320px;
+    transition: .5s ease;
+    margin: 20px;
+}

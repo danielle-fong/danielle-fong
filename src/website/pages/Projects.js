@@ -3,6 +3,7 @@ import colourme from "./colourme.png";
 import recycle from "./recycle.png";
 import marblemod from "./marblemod.png";
 import vbook from "./vbook.png";
+import cadmodel from "./cadmodel.png";
 
 function Projects(){
     return (
@@ -30,6 +31,14 @@ function Projects(){
                     <h1 className = "t4">vbook is a project designed</h1>
                     <img className="vbook" src={vbook}/>
                 </div>
+            </div>
+
+            <div className = "row3">
+                <div className = "p4">
+                    <h1 className = "t4">cadmodel is a project designed</h1>
+                    <img className="cadmodel" src={cadmodel}/>
+                </div>
+
             </div>
 
             </div>            
