@@ -1,6 +1,7 @@
 
 .nav-container {
 	background: #acbda1;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	height: 100px;
 	display: flex;
 	justify-content: space-between;

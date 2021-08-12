@@ -1,6 +1,6 @@
 .block{
     background-color: rgb(236, 236, 236);
-    height: 1000px;
+    height: 1300px;
 }
 
 .title-projects{
@@ -26,14 +26,16 @@
 }
 
 .p1:hover .colourme{
-    opacity: 0.3;
+    opacity: 0.2;
 }
 
 .p1:hover .t1{
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 .t1{
+    font-size: 20px;
+    font-family: pt sans;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -55,14 +57,16 @@
 }
 
 .p2:hover .recycle{
-    opacity: 0.3;
+    opacity: 0.2;
 }
 
 .p2:hover .t2{
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 .t2{
+    font-size: 20px;
+    font-family: pt sans;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -91,14 +95,16 @@
 }
 
 .p3:hover .marblemod{
-    opacity: 0.3;
+    opacity: 0.2;
 }
 
 .p3:hover .t3{
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 .t3{
+    font-size: 20px;
+    font-family: pt sans;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -120,14 +126,16 @@
 }
 
 .p4:hover .vbook{
-    opacity: 0.3;
+    opacity: 0.2;
 }
 
 .p4:hover .t4{
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 .t4{
+    font-size: 20px;
+    font-family: pt sans;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -155,14 +163,16 @@
 }
 
 .p5:hover .cadmodel{
-    opacity: 0.3;
+    opacity: 0.2;
 }
 
 .p5:hover .t5{
-    color: black;
+    color: #000000;
 }
 
 .t5{
+    font-size: 20px;
+    font-family: pt sans;
     position: absolute;
     top: 50%;
     left: 50%;
