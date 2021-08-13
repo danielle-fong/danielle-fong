@@ -1,6 +1,7 @@
 .block{
     background-color: rgb(236, 236, 236);
     height: 1300px;
+    text-align: center;
 }
 
 .title-projects{
@@ -17,172 +18,203 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 50px;
 }
 
 .p1{
     position: relative;
-    text-align: center;
-    color: transparent;
+    top: 0;
+    left: 0;
 }
 
-.p1:hover .colourme{
-    opacity: 0.2;
+.p1:hover .colourme_gif{
+    opacity: 1;
 }
 
-.p1:hover .t1{
-    color: rgb(0, 0, 0);
+.colourme{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 370px;
+}
+
+.colourme_gif{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    opacity: 0;
+    
 }
 
 .t1{
     font-size: 20px;
     font-family: pt sans;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    transition: .5s ease;
+    margin-left: 80px;
 }
-
-.colourme{
-    width: 550px;
-    height: 320px;
-    transition: .5s ease;
-    margin: 20px;
-}
-
-.p2{
-    position: relative;
-    text-align: center;
-    color: transparent;
-}
-
-.p2:hover .recycle{
-    opacity: 0.2;
-}
-
-.p2:hover .t2{
-    color: rgb(0, 0, 0);
-}
-
-.t2{
-    font-size: 20px;
-    font-family: pt sans;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    transition: .5s ease;
-}
-
-.recycle{
-    width: 550px;
-    height: 320px;
-    transition: .5s ease;
-    margin: 20px;
-}
-
 
 .row2{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 50px;
 }
 
-.p3{
+.p2{
     position: relative;
-    text-align: center;
-    color: transparent;
+    top: 0;
+    left: 0;
 }
 
-.p3:hover .marblemod{
-    opacity: 0.2;
+.p2:hover .recycler_gif{
+    opacity: 1;
 }
 
-.p3:hover .t3{
-    color: rgb(0, 0, 0);
+.recycler{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 370px;
 }
 
-.t3{
+.recycler_gif{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    opacity: 0;
+    
+}
+
+.t2{
     font-size: 20px;
     font-family: pt sans;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    transition: .5s ease;
-}
-
-.marblemod{
-    width: 550px;
-    height: 320px;
-    transition: .5s ease;
-    margin: 20px;
-}
-
-.p4{
-    position: relative;
-    text-align: center;
-    color: transparent;
-}
-
-.p4:hover .vbook{
-    opacity: 0.2;
-}
-
-.p4:hover .t4{
-    color: rgb(0, 0, 0);
-}
-
-.t4{
-    font-size: 20px;
-    font-family: pt sans;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    transition: .5s ease;
-}
-
-.vbook{
-    width: 550px;
-    height: 320px;
-    transition: .5s ease;
-    margin: 20px;
+    margin-left: 80px;
 }
 
 .row3{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 50px;
+}
+
+.p3{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.p3:hover .marblemod_gif{
+    opacity: 1;
+}
+
+.marblemod{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 370px;
+}
+
+.marblemod_gif{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    opacity: 0;
+    
+}
+
+.t3{
+    font-size: 20px;
+    font-family: pt sans;
+    margin-left: 80px;
+}
+
+.row4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 50px;
+}
+
+.p4{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.p4:hover .vbook_gif{
+    opacity: 1;
+}
+
+.vbook{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 370px;
+}
+
+.vbook_gif{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    opacity: 0;
+    
+}
+
+.t4{
+    font-size: 20px;
+    font-family: pt sans;
+    margin-left: 80px;
+}
+
+.row5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 50px;
 }
 
 .p5{
     position: relative;
-    text-align: center;
-    color: transparent;
+    top: 0;
+    left: 0;
 }
 
-.p5:hover .cadmodel{
-    opacity: 0.2;
+.p5:hover .cadmodel_gif{
+    opacity: 1;
 }
 
-.p5:hover .t5{
-    color: #000000;
+.cadmodel{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 370px;
+}
+
+.cadmodel_gif{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    opacity: 0;
+    
 }
 
 .t5{
     font-size: 20px;
     font-family: pt sans;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    transition: .5s ease;
-}
-
-.cadmodel{
-    width: 550px;
-    height: 320px;
-    transition: .5s ease;
-    margin: 20px;
+    margin-left: 80px;
 }
