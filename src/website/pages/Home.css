@@ -1,13 +1,13 @@
 .intro {
     background: whitesmoke;
-    height: 430px;
+    height: 450px;
     align-items: center;
     display: flex;
 }
 
 .intro-text{
-    margin-top: 125px;
-    margin-bottom: 80px;
+    margin-top: 130px;
+    margin-bottom: 100px;
 }
 
 .header {
