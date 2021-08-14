@@ -1,11 +1,13 @@
 .intro {
     background: whitesmoke;
     height: 430px;
+    align-items: center;
+    display: flex;
 }
 
-
-.intro-text {
-    float: left;
+.intro-text{
+    margin-top: 125px;
+    margin-bottom: 80px;
 }
 
 .header {
@@ -13,8 +15,7 @@
     font-family: Arial, Helvetica, sans-serif;
 	font-size: 20px;
 	text-align: left;
-    padding-top: 140px;
-    padding-left: 435px;
+    margin-left: 455px;
 }
 
 .name {
@@ -22,7 +23,7 @@
     font-family: Arial, Helvetica, sans-serif;
 	font-size: 53px;
 	text-align: left;
-    padding-left: 325px;
+    margin-left: 355px;
 
 }
 
@@ -32,7 +33,7 @@
 	font-size: 15px;
 	text-align: right;
     padding-top: 10px;
-    padding-left: 70px;
+    margin-left: 100px;
     max-width: 600px;
 
 }
@@ -40,8 +41,10 @@
 .profile {
     max-width: 280px;
     float: right;
-    padding-top: 75px;
-    padding-right: 250px;
+    margin-top: 105px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 80px;
 
 
 }
