@@ -22,7 +22,7 @@ function Projects(){
                 <div className = "p1">
                     <img className="colourme" src={colourme}/>
                     <div className="colourme_gif">
-						<img src={colourme_gif} width = "600px" height = "370px"/>
+						<img src={colourme_gif} width = "600px" height = "350px"/>
 				    </div>
                 </div> 
                 <h1 className = "t1">
@@ -35,7 +35,7 @@ function Projects(){
                 <div className = "p2">
                     <img className="recycler" src={recycler}/>
                     <div className="recycler_gif">
-						<img src={recycler_gif} width = "600px" height = "370px"/>
+						<img src={recycler_gif} width = "600px" height = "350px"/>
 				    </div>
                 </div> 
                 <h1 className = "t2">
@@ -49,7 +49,7 @@ function Projects(){
                 <div className = "p3">
                     <img className="marblemod" src={marblemod}/>
                     <div className="marblemod_gif">
-						<img src={marblemod_gif} width = "600px" height = "370px"/>
+						<img src={marblemod_gif} width = "600px" height = "350px"/>
 				    </div>
                 </div> 
                 <h1 className = "t3">
@@ -62,7 +62,7 @@ function Projects(){
                 <div className = "p4">
                     <img className="vbook" src={vbook}/>
                     <div className="vbook_gif">
-						<img src={vbook_gif} width = "600px" height = "370px"/>
+						<img src={vbook_gif} width = "600px" height = "350px"/>
 				    </div>
                 </div> 
                 <h1 className = "t4">
@@ -75,7 +75,7 @@ function Projects(){
                 <div className = "p5">
                     <img className="cadmodel" src={cadmodel}/>
                     <div className="cadmodel_gif">
-						<img src={cadmodel_gif} width = "600px" height = "370px"/>
+						<img src={cadmodel_gif} width = "600px" height = "350px"/>
 				    </div>
                 </div> 
                 <h1 className = "t5">
