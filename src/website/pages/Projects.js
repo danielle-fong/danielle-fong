@@ -15,9 +15,11 @@ import cadmodel_gif from "./cadmodel.gif";
 function Projects(){
     return (
         <>
-            <div className = "block">
+            <div className = "header-projects">
                 <h1 className = "title-projects">My Projects</h1>
-
+                <h1 className = "description">hover over each project to view more!</h1>
+            </div>
+            <div className = "block">
             <div className = "row1">
                 <div className = "p1">
                     <img className="colourme" src={colourme}/>
@@ -66,8 +68,9 @@ function Projects(){
 				    </div>
                 </div> 
                 <h1 className = "t4">
-                    Marble Mod adds decorative marble blocks into your Minecraft world. 
-                    This mod was created using FabricMC's mod template and coded in Java.              
+                    Vbook is a Facebook Messenger extension for speech to text chatting 
+                    that includes a bot to accept and give responses to the user. 
+                    This project was coded in Python and uses IBM Watson and Facebook Messenger API.
                 </h1>
             </div>
 
@@ -79,8 +82,9 @@ function Projects(){
 				    </div>
                 </div> 
                 <h1 className = "t5">
-                    cad adds decorative cad marble blocks into your Minecraft world. 
-                    This mod was created using FabricMC's mod template and coded in Java.
+                    The surgical container was designed to be placed into an autoclave by a robotic arm to 
+                    securely hold and sterilize a surgical tool.  
+                    This CAD model was created using Autodesk Inventor.
                 </h1>
             </div>
 
