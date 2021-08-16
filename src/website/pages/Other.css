@@ -1,0 +1,74 @@
+.school{
+    justify-content: left;
+    display: flex;
+}
+
+.pic1{
+    height: 150px;
+    width: 150px;
+}
+
+.text1{
+    font-size: 23px;
+    margin: 50px;
+}
+
+.travel{
+    justify-content: left;
+    display: flex;
+}
+
+.pic2{
+    height: 150px;
+    width: 150px;
+}
+
+.text2{
+    font-size: 23px;
+    margin: 50px;
+}
+
+.food{
+    justify-content: left;
+    display: flex;
+}
+
+.pic3{
+    height: 150px;
+    width: 150px;
+}
+
+.text3{
+    font-size: 23px;
+    margin: 50px;
+}
+
+.dog{
+    justify-content: left;
+    display: flex;
+}
+
+.pic4{
+    height: 150px;
+    width: 150px;
+}
+
+.text4{
+    font-size: 23px;
+    margin: 50px;
+}
+
+.music{
+    justify-content: left;
+    display: flex;
+}
+
+.pic5{
+    height: 150px;
+    width: 150px;
+}
+
+.text5{
+    font-size: 23px;
+    margin: 50px;
+}
