@@ -1,14 +1,14 @@
 import "./Projects.css";
-import colourme from "./colourme.png";
-import colourme_gif from "./colourme.gif";
-import recycler from "./recycler.png";
-import recycler_gif from "./recycler.gif";
-import marblemod from "./marblemod.png";
-import marblemod_gif from "./marblemod.gif";
-import vbook from "./vbook.png";
-import vbook_gif from "./vbook.gif";
-import cadmodel from "./cadmodel.png";
-import cadmodel_gif from "./cadmodel.gif";
+import colourme from "./projects/colourme.png";
+import colourme_gif from "./projects/colourme.gif";
+import recycler from "./projects/recycler.png";
+import recycler_gif from "./projects/recycler.gif";
+import marblemod from "./projects/marblemod.png";
+import marblemod_gif from "./projects/marblemod.gif";
+import vbook from "./projects/vbook.png";
+import vbook_gif from "./projects/vbook.gif";
+import cadmodel from "./projects/cadmodel.png";
+import cadmodel_gif from "./projects/cadmodel.gif";
 
 
 

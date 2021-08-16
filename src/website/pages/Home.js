@@ -1,10 +1,10 @@
 import "./Home.css";
 import profile from "./profile.png"
-import github from "./github.png"
-import devpost from "./devpost.png"
-import resume from "./resume.png"
-import email from "./email.png"
-import linkedin from "./linkedin.png"
+import github from "./logos/github.png"
+import devpost from "./logos/devpost.png"
+import resume from "./logos/resume.png"
+import email from "./logos/email.png"
+import linkedin from "./logos/linkedin.png"
 
 
 function Home(){
