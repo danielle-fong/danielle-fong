@@ -1,11 +1,42 @@
+.header-about{
+    background-color: rgb(255, 255, 255);
+}
+
+.header1{
+    color: #acbda1;
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: center;
+    display: flex;
+    padding-top: 90px;
+    padding-bottom: 20px;
+}
+
+.desc1{
+    color: #000000;
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 90px;
+}
+
+.about{
+   background-color: #acbda1;
+}
+
 .school{
     justify-content: left;
     display: flex;
+    margin: 50px;
+    margin-left: 170px;
+    margin-right: 170px;
+    padding-top: 60px;
 }
 
 .pic1{
-    height: 150px;
-    width: 150px;
+    height: 170px;
+    width: 170px;
 }
 
 .text1{
@@ -16,11 +47,14 @@
 .travel{
     justify-content: left;
     display: flex;
+    margin: 50px;
+    margin-left: 170px;
+    margin-right: 170px;
 }
 
 .pic2{
-    height: 150px;
-    width: 150px;
+    height: 170px;
+    width: 170px;
 }
 
 .text2{
@@ -31,11 +65,14 @@
 .food{
     justify-content: left;
     display: flex;
+    margin: 50px;
+    margin-left: 170px;
+    margin-right: 170px;
 }
 
 .pic3{
-    height: 150px;
-    width: 150px;
+    height: 170px;
+    width: 170px;
 }
 
 .text3{
@@ -46,11 +83,14 @@
 .dog{
     justify-content: left;
     display: flex;
+    margin: 50px;
+    margin-left: 170px;
+    margin-right: 170px;
 }
 
 .pic4{
-    height: 150px;
-    width: 150px;
+    height: 170px;
+    width: 170px;
 }
 
 .text4{
@@ -61,11 +101,15 @@
 .music{
     justify-content: left;
     display: flex;
+    margin: 50px;
+    margin-left: 170px;
+    margin-right: 170px;
+    padding-bottom: 60px;
 }
 
 .pic5{
-    height: 150px;
-    width: 150px;
+    height: 170px;
+    width: 170px;
 }
 
 .text5{

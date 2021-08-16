@@ -10,8 +10,6 @@ import vbook_gif from "./projects/vbook.gif";
 import cadmodel from "./projects/cadmodel.png";
 import cadmodel_gif from "./projects/cadmodel.gif";
 
-
-
 function Projects(){
     return (
         <>

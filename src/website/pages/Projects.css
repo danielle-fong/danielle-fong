@@ -1,7 +1,5 @@
 .header-projects{
-    background-color: rgb(255, 255, 255);
-    height: 300px;
-    text-align: center;
+    background-color: white;
 }
 
 .title-projects{
@@ -20,7 +18,7 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     justify-content: center;
     display: flex;
-    margin-bottom: 80px;
+    margin-bottom: 90px;
 }
 
 .block{

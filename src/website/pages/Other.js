@@ -7,33 +7,36 @@ import music from "./pictures/music.png";
 function Other(){
     return (
         <>
-            <h1 className = "header">Leadership Experience</h1>
+            <div className = "header-about">
+                <h1 className = "header1">About Me</h1>
+                <h1 className = "desc1">a few things about me</h1>
+            </div>
+
             <div className = "about">
                 <div className = "school">
                     <img className="pic1" src={school}/>
-                    <h3 className = "text1">Electrical Engineering student at McMaster University</h3>
+                    <h3 className = "text1">I'm an Electrical Engineering student at McMaster University</h3>
                 </div>
 
                 <div className = "travel">
                     <img className="pic2" src={travel}/>
-                    <h3 className = "text2">loves to travel and explore nature</h3>
+                    <h3 className = "text2">I love to travel and explore, so far I've travelled to 11 countries</h3>
                 </div>
 
                 <div className = "food">
                     <img className="pic3" src={dog}/>
-                    <h3 className = "text3">enjoys cooking and baking</h3>
+                    <h3 className = "text3">I enjoy cooking, baking, and experimenting with new recipes</h3>
 
                 </div>
 
                 <div className = "dog">
                     <img className="pic4" src={dog}/>
-                    <h3 className = "text4">loves dogs and has a puppy named Apollo</h3>
+                    <h3 className = "text4">I love dogs, meet my little puppy Apollo</h3>
                 </div>
 
                 <div className = "music">
                     <img className="pic5" src={music}/>
-                    <h3 className = "music">enjoys music and playing guitar</h3>
-
+                    <h3 className = "text5">I play the guitar and enjoy recording with other musicians</h3>
                 </div>
 
             </div>
