@@ -1,9 +1,10 @@
 .header-extra{
-    background-color: white;
+    background-color: whitesmoke;
+    height: 290px;
 }
 
 .title-extra{
-    color: #acbda1;
+    color: #6e8492;
     font-size: 60px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     justify-content: center;
@@ -18,5 +19,51 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     justify-content: center;
     display: flex;
-    margin-bottom: 90px;
+}
+
+.extra{
+    background-color: #6e8492;
+    color: whitesmoke;
+    height: 1285px;
+    font-family: pt sans;
+}
+
+.b1{
+    display: flex;
+    justify-content:space-between;
+    font-size: 13px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.b2{
+    display: flex;
+    justify-content:space-between;
+    font-size: 13px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.b3{
+    display: flex;
+    justify-content:space-between;
+    font-size: 13px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.b4{
+    display: flex;
+    justify-content:space-between;
+    font-size: 13px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.b5{
+    display: flex;
+    justify-content:space-between;
+    font-size: 13px;
+    margin-left: 100px;
+    margin-right: 100px;
 }

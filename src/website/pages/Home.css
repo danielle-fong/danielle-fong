@@ -11,11 +11,11 @@
 }
 
 .header {
-    color: #acbda1;
+    color: #6e8492;
     font-family: Arial, Helvetica, sans-serif;
 	font-size: 20px;
 	text-align: left;
-    margin-left: 455px;
+    margin-left: 464px;
 }
 
 .name {
@@ -50,7 +50,7 @@
 }
 
 .social{
-    background: #acbda1;
+    background: #6e8492;
     height: 210px;
     display: flex;
     justify-content: center;

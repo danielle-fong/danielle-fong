@@ -1,9 +1,10 @@
 .header-about{
-    background-color: white;
+    background-color: whitesmoke;
+    height: 290px;
 }
 
 .title-about{
-    color: #acbda1;
+    color: #6e8492;
     font-size: 60px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     justify-content: center;
@@ -13,20 +14,19 @@
 }
 
 .desc-about{
-    color: black;
+    color: #000000;
     font-size: 17px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     justify-content: center;
     display: flex;
-    margin-bottom: 90px;
 }
 
 .about{
-   background-color: #acbda1;
-   color: white;
-   height: 1285px;
-   font-family: pt sans;
-}
+    background-color: #6e8492;
+    color: whitesmoke;
+    height: 1285px;
+    font-family: pt sans;
+ }
 
 .school{
     justify-content: left;
@@ -40,7 +40,7 @@
 .pic1{
     height: 170px;
     width: 170px;
-    border: 3px solid white;
+    border: 3px solid whitesmoke;
     border-radius: 50%;
 }
 
@@ -60,7 +60,7 @@
 .pic2{
     height: 170px;
     width: 170px;
-    border: 3px solid white;
+    border: 3px solid whitesmoke;
     border-radius: 50%;
 }
 
@@ -80,7 +80,7 @@
 .pic3{
     height: 170px;
     width: 170px;
-    border: 3px solid white;
+    border: 3px solid whitesmoke;
     border-radius: 50%;
 }
 
@@ -100,7 +100,7 @@
 .pic4{
     height: 170px;
     width: 170px;
-    border: 3px solid white;
+    border: 3px solid whitesmoke;
     border-radius: 50%;
 }
 
@@ -121,7 +121,7 @@
 .pic5{
     height: 170px;
     width: 170px;
-    border: 3px solid white;
+    border: 3px solid whitesmoke;
     border-radius: 50%;
 }
 
