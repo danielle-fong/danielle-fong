@@ -1,5 +1,5 @@
 .header-about{
-    background-color: rgb(255, 255, 255);
+    background-color: white;
 }
 
 .header1{
@@ -13,7 +13,7 @@
 }
 
 .desc1{
-    color: #000000;
+    color: black;
     font-size: 17px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     justify-content: center;
@@ -23,96 +23,109 @@
 
 .about{
    background-color: #acbda1;
+   color: white;
+   height: 1200px;
+   font-family: pt sans;
 }
 
 .school{
     justify-content: left;
     display: flex;
     margin: 50px;
-    margin-left: 170px;
-    margin-right: 170px;
+    margin-left: 180px;
+    margin-right: 140px;
     padding-top: 60px;
 }
 
 .pic1{
     height: 170px;
     width: 170px;
+    border: 3px solid white;
+    border-radius: 50%;
 }
 
 .text1{
     font-size: 23px;
-    margin: 50px;
+    margin: 70px;
 }
 
 .travel{
     justify-content: left;
     display: flex;
     margin: 50px;
-    margin-left: 170px;
-    margin-right: 170px;
+    margin-left: 180px;
+    margin-right: 140px;
 }
 
 .pic2{
     height: 170px;
     width: 170px;
+    border: 3px solid white;
+    border-radius: 50%;
 }
 
 .text2{
     font-size: 23px;
-    margin: 50px;
+    margin: 70px;
 }
 
 .food{
     justify-content: left;
     display: flex;
     margin: 50px;
-    margin-left: 170px;
-    margin-right: 170px;
+    margin-left: 180px;
+    margin-right: 140px;
 }
 
 .pic3{
     height: 170px;
     width: 170px;
+    border: 3px solid white;
+    border-radius: 50%;
 }
 
 .text3{
     font-size: 23px;
-    margin: 50px;
+    margin: 70px;
 }
 
 .dog{
     justify-content: left;
     display: flex;
     margin: 50px;
-    margin-left: 170px;
-    margin-right: 170px;
+    margin-left: 180px;
+    margin-right: 140px;
 }
 
 .pic4{
     height: 170px;
     width: 170px;
+    border: 3px solid white;
+    border-radius: 50%;
 }
 
 .text4{
     font-size: 23px;
-    margin: 50px;
+    margin: 70px;
 }
 
 .music{
     justify-content: left;
     display: flex;
     margin: 50px;
-    margin-left: 170px;
-    margin-right: 170px;
+    margin-left: 180px;
+    margin-right: 140px;
     padding-bottom: 60px;
 }
 
 .pic5{
     height: 170px;
     width: 170px;
+    border: 3px solid white;
+    border-radius: 50%;
 }
 
 .text5{
     font-size: 23px;
-    margin: 50px;
+    margin: 70px;
 }
