@@ -15,7 +15,7 @@ function Projects(){
         <>
             <div className = "header-projects">
                 <h1 className = "title-projects">My Projects</h1>
-                <h1 className = "description">hover over each project to view more!</h1>
+                <h1 className = "desc-projects">hover over each project to view more!</h1>
             </div>
             <div className = "block">
             <div className = "row1">

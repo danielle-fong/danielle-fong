@@ -8,8 +8,8 @@ function About(){
     return (
         <>
             <div className = "header-about">
-                <h1 className = "header1">About Me</h1>
-                <h1 className = "desc1">a few things about me</h1>
+                <h1 className = "title-about">About Me</h1>
+                <h1 className = "desc-about">a few things about me</h1>
             </div>
 
             <div className = "about">

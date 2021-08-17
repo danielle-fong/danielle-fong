@@ -2,7 +2,7 @@
     background-color: white;
 }
 
-.header1{
+.title-about{
     color: #acbda1;
     font-size: 60px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -12,7 +12,7 @@
     padding-bottom: 20px;
 }
 
-.desc1{
+.desc-about{
     color: black;
     font-size: 17px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,17 +24,17 @@
 .about{
    background-color: #acbda1;
    color: white;
-   height: 1200px;
+   height: 1285px;
    font-family: pt sans;
 }
 
 .school{
     justify-content: left;
     display: flex;
-    margin: 50px;
+    margin: 60px;
     margin-left: 180px;
     margin-right: 140px;
-    padding-top: 60px;
+    padding-top: 80px;
 }
 
 .pic1{
@@ -52,7 +52,7 @@
 .travel{
     justify-content: left;
     display: flex;
-    margin: 50px;
+    margin: 60px;
     margin-left: 180px;
     margin-right: 140px;
 }
@@ -72,7 +72,7 @@
 .food{
     justify-content: left;
     display: flex;
-    margin: 50px;
+    margin: 60px;
     margin-left: 180px;
     margin-right: 140px;
 }
@@ -92,7 +92,7 @@
 .dog{
     justify-content: left;
     display: flex;
-    margin: 50px;
+    margin: 60px;
     margin-left: 180px;
     margin-right: 140px;
 }
@@ -112,10 +112,10 @@
 .music{
     justify-content: left;
     display: flex;
-    margin: 50px;
+    margin: 60px;
     margin-left: 180px;
     margin-right: 140px;
-    padding-bottom: 60px;
+    padding-bottom: 80px;
 }
 
 .pic5{
