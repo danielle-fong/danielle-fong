@@ -19,7 +19,7 @@ const Nav = () => {
 					<Link className="nav-link" to="/Projects">
 						<h2>Projects</h2>
 					</Link>
-					<Link className="nav-link" to="/Extra">
+					<Link className="nav-link" to="/Extracurriculars">
 						<h2>Extracurriculars</h2>
 					</Link>
 				</div>
