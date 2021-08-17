@@ -15,9 +15,9 @@ const Nav = () => {
 					</Link>
 					<Link className="nav-link" to="/Other">
 						<h2>About Me</h2>
+					</Link>
 					<Link className="nav-link" to="/Projects">
 						<h2>Projects</h2>
-					</Link>
 					</Link>
 				</div>
 			</div>
