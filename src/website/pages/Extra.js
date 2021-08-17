@@ -4,8 +4,8 @@ function Extra(){
     return (
         <>
             <div className = "header-extra">
-                <h1 className = "header1">About Me</h1>
-                <h1 className = "desc1">a few things about me</h1>
+                <h1 className = "title-extra">Extracurriculars</h1>
+                <h1 className = "desc-extra">check out some of my hobbies and leadership roles</h1>
             </div>
         </>
     )

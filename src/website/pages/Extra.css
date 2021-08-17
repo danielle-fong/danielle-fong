@@ -1,0 +1,22 @@
+.header-extra{
+    background-color: white;
+}
+
+.title-extra{
+    color: #acbda1;
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: center;
+    display: flex;
+    padding-top: 90px;
+    padding-bottom: 20px;
+}
+
+.desc-extra{
+    color: black;
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 90px;
+}
