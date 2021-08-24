@@ -3,6 +3,7 @@ import colourme from "./projects/colourme.png";
 import colourme_gif from "./projects/colourme.gif";
 import recycler from "./projects/recycler.png";
 import recycler_gif from "./projects/recycler.gif";
+import disdance from "./projects/disdance.png";
 import marblemod from "./projects/marblemod.png";
 import marblemod_gif from "./projects/marblemod.gif";
 import vbook from "./projects/vbook.png";
@@ -27,7 +28,7 @@ function Projects(){
                 </div> 
                 <h1 className = "t1">
                     ColourME is a colour palette generator designed to create the perfect palette for the user. 
-                    This project was created using ReactJS, JavaScript, HTML, and CSS.
+                    This project was created using React, JavaScript, HTML, and CSS.
                 </h1>
             </div>
 
@@ -47,39 +48,52 @@ function Projects(){
 
             <div className = "row3">
                 <div className = "p3">
-                    <img className="marblemod" src={marblemod}/>
-                    <div className="marblemod_gif">
-						<img src={marblemod_gif} width = "600px" height = "350px"/>
+                    <img className="disdance" src={disdance}/>
+                    <div className="disdance_gif">
+						<img src={recycler_gif} width = "600px" height = "350px"/>
 				    </div>
                 </div> 
                 <h1 className = "t3">
-                    Marble Mod adds decorative marble blocks into your Minecraft world. 
-                    This mod was created using FabricMC's mod template and coded in Java.              
+                    Social Disdance is a web application that allows you to play Just Dance online with friends.
+                    This application was built using React, Python, and Django.     
                 </h1>
             </div>
 
             <div className = "row4">
                 <div className = "p4">
+                    <img className="marblemod" src={marblemod}/>
+                    <div className="marblemod_gif">
+						<img src={marblemod_gif} width = "600px" height = "350px"/>
+				    </div>
+                </div> 
+                <h1 className = "t4">
+                    Marble Mod adds decorative marble blocks into your Minecraft world. 
+                    This mod was created using FabricMC's mod template and coded in Java.              
+                </h1>
+            </div>
+
+            <div className = "row5">
+                <div className = "p5">
                     <img className="vbook" src={vbook}/>
                     <div className="vbook_gif">
 						<img src={vbook_gif} width = "600px" height = "350px"/>
 				    </div>
                 </div> 
-                <h1 className = "t4">
+                <h1 className = "t5">
                     Vbook is a Facebook Messenger extension for speech to text chatting 
                     that includes a bot to accept and give responses to the user. 
                     This project was coded in Python and uses IBM Watson and Facebook Messenger API.
                 </h1>
             </div>
 
-            <div className = "row5">
-                <div className = "p5">
+            <div className = "row6">
+                <div className = "p6">
                     <img className="cadmodel" src={cadmodel}/>
                     <div className="cadmodel_gif">
 						<img src={cadmodel_gif} width = "600px" height = "350px"/>
 				    </div>
                 </div> 
-                <h1 className = "t5">
+                <h1 className = "t6">
                     The surgical container was designed to be placed into an autoclave by a robotic arm to 
                     securely hold and sterilize a surgical tool.  
                     This CAD model was created using Autodesk Inventor.

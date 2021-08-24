@@ -24,7 +24,7 @@
 .block{
     background-color: #6e8492;
     color: whitesmoke;
-    height: 2120px;
+    height: 2510px;
     text-align: center;
 }
 
@@ -126,11 +126,11 @@
     left: 0;
 }
 
-.p3:hover .marblemod_gif{
+.p3:hover .disdance_gif{
     opacity: 1;
 }
 
-.marblemod{
+.disdance{
     position: relative;
     top: 0;
     left: 0;
@@ -138,7 +138,7 @@
     height: 350px;
 }
 
-.marblemod_gif{
+.disdance_gif{
     position: absolute;
     bottom: 0;
     left: 0;
@@ -167,11 +167,11 @@
     left: 0;
 }
 
-.p4:hover .vbook_gif{
+.p4:hover .marblemod_gif{
     opacity: 1;
 }
 
-.vbook{
+.marblemod{
     position: relative;
     top: 0;
     left: 0;
@@ -179,7 +179,7 @@
     height: 350px;
 }
 
-.vbook_gif{
+.marblemod_gif{
     position: absolute;
     bottom: 0;
     left: 0;
@@ -208,7 +208,48 @@
     left: 0;
 }
 
-.p5:hover .cadmodel_gif{
+.p5:hover .vbook_gif{
+    opacity: 1;
+}
+
+.vbook{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 350px;
+}
+
+.vbook_gif{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    opacity: 0;
+    
+}
+
+.t5{
+    font-size: 20px;
+    font-family: pt sans;
+    margin-left: 80px;
+}
+
+.row6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 50px;
+}
+
+.p6{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.p6:hover .cadmodel_gif{
     opacity: 1;
 }
 
@@ -228,7 +269,7 @@
     
 }
 
-.t5{
+.t6{
     font-size: 20px;
     font-family: pt sans;
     margin-left: 80px;
