@@ -1,6 +1,7 @@
 import "./App.css";
 import Home from "./website/pages/Home";
 import About from "./website/pages/About";
+import Resume from "./website/pages/Resume";
 import Projects from "./website/pages/Projects";
 import Extracurriculars from "./website/pages/Extracurriculars";
 import Nav from "./website/Nav";
@@ -14,6 +15,7 @@ const App = () => {
 				<Switch>
 					<Route path="/" exact component={Home} />
 					<Route path="/About" exact component={About} />
+					<Route path="/Resume" exact component={Resume} />
 					<Route path="/Projects" exact component={Projects} />
 					<Route path="/Extracurriculars" exact component={Extracurriculars} />
 				</Switch>

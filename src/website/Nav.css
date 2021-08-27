@@ -11,12 +11,12 @@
 
 .link-wrapper {
 	display: flex;
-	width:42%;
+	width:45%;
 	font-size: 13px;
 }
 
 .nav-link {
-	margin: 20px;
+	margin: 15px;
 	text-decoration: none;
 	color: whitesmoke;
 }

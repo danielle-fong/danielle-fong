@@ -4,6 +4,7 @@
   "homepage": "http://danielle-fong.github.io/danielle-fong-pages",
   "private": true,
   "dependencies": {
+    "@pdftron/webviewer": "^8.0.1",
     "@react-pdf/renderer": "^2.0.19",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
