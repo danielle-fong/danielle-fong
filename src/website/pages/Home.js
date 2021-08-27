@@ -6,6 +6,7 @@ import resume from "./logos/resume.png";
 import email from "./logos/email.png";
 import linkedin from "./logos/linkedin.png";
 
+import { Page, Text, View, Document, StyleSheet } from '@react-pdf/renderer';
 
 function Home(){
     return (
@@ -29,6 +30,10 @@ function Home(){
                 <a href = "mailto: daniellefong13@gmail.com"><img className="email" src={email}/></a>
                 <a href="https://www.linkedin.com/in/danielle-fong/"><img className="linkedin" src={linkedin}/></a>
             </div>
+
+            <Document file={samplePDF}>
+                <Page pageNumber={1} />
+            </Document>
 
         </>
     );
