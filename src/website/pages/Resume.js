@@ -1,12 +1,13 @@
 import React from 'react';
-import { Document } from 'react-pdf'
+import { Document, Page, pdfjs } from 'react-pdf';
+
 
 
 function Resume(){
     return (
-        <>
+        <div>
             <Document file="DanielleFongResume.pdf" />
-        </>
+        </div>
     )
 }
 
