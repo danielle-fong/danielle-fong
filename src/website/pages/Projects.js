@@ -4,6 +4,7 @@ import colourme_gif from "./projects/colourme.gif";
 import recycler from "./projects/recycler.png";
 import recycler_gif from "./projects/recycler.gif";
 import disdance from "./projects/disdance.png";
+import disdance_gif from "./projects/disdance.gif";
 import marblemod from "./projects/marblemod.png";
 import marblemod_gif from "./projects/marblemod.gif";
 import vbook from "./projects/vbook.png";
@@ -50,7 +51,7 @@ function Projects(){
                 <div className = "p3">
                     <img className="disdance" src={disdance}/>
                     <div className="disdance_gif">
-						<img src={recycler_gif} width = "600px" height = "350px"/>
+						<img src={disdance_gif} width = "600px" height = "350px"/>
 				    </div>
                 </div> 
                 <h1 className = "t3">
