@@ -24,7 +24,7 @@ function Home(){
             <div className = "social">
                 <a href="https://github.com/danielle-fong"><img className="github" src={github}/></a>
                 <a href="https://devpost.com/danielle-fong"><img className="devpost" src={devpost}/></a>
-                <a href="DanielleFongResume.pdf" download="DanielleFongResume"><img className="resume" src={resume}/></a>
+                <a href="https://drive.google.com/file/d/1xdkNziggCp9oSbCBvtJqWVMF-9wju243/view?usp=sharing"><img className="resume" src={resume}/></a>
                 <a href = "mailto: daniellefong13@gmail.com"><img className="email" src={email}/></a>
                 <a href="https://www.linkedin.com/in/danielle-fong/"><img className="linkedin" src={linkedin}/></a>
             </div>
