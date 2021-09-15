@@ -51,7 +51,7 @@ function Projects(){
                 <div className = "p3">
                     <img className="disdance" src={disdance}/>
                     <div className="disdance_gif">
-						<img src={disdance_gif} width = "600px" height = "350px"/>
+						<img src={disdance_gif} alt="gif" width = "600px" height = "350px"/>
 				    </div>
                 </div> 
                 <h1 className = "t3">
