@@ -1,7 +1,7 @@
 {
   "name": "website",
   "version": "0.1.0",
-  "homepage": "http://danielle-fong.github.io/danielle-fong-pages",
+  "homepage": "daniellefong.me",
   "private": true,
   "dependencies": {
     "@pdftron/webviewer": "^8.0.1",
