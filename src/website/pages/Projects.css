@@ -24,7 +24,7 @@
 .block{
     background-color: #6e8492;
     color: whitesmoke;
-    height: 2510px;
+    height: 100%;
     text-align: center;
 }
 
@@ -32,10 +32,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 120px;
-    margin-right: 120px;
-    margin-bottom: 50px;
-    padding-top: 80px;
+    margin-left: 9%;
+    margin-right: 9%;
+    padding-top: 6%;
 }
 
 .p1{
@@ -52,8 +51,10 @@
     position: relative;
     top: 0;
     left: 0;
-    width: 600px;
-    height: 350px;
+    max-width: 270%;
+    max-height: 320px;
+    height: auto;
+    width: auto;
 }
 
 .colourme_gif{
@@ -61,7 +62,6 @@
     bottom: 0;
     left: 0;
     opacity: 0;
-    
 }
 
 .t1{

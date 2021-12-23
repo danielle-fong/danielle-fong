@@ -24,7 +24,7 @@ function Projects(){
                 <div className = "p1">
                     <img className="colourme" src={colourme}/>
                     <div className="colourme_gif">
-						<img src={colourme_gif} width = "600px" height = "350px"/>
+						<img src={colourme_gif} width = "200%" height = "auto"/>
 				    </div>
                 </div> 
                 <h1 className = "t1">
