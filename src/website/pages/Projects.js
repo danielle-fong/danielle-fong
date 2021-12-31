@@ -1,16 +1,11 @@
 import "./Projects.css";
-import colourme from "./projects/colourme.png";
-import colourme_gif from "./projects/colourme.gif";
-import recycler from "./projects/recycler.png";
-import recycler_gif from "./projects/recycler.gif";
-import disdance from "./projects/disdance.png";
-import disdance_gif from "./projects/disdance.gif";
-import marblemod from "./projects/marblemod.png";
-import marblemod_gif from "./projects/marblemod.gif";
-import vbook from "./projects/vbook.png";
-import vbook_gif from "./projects/vbook.gif";
-import cadmodel from "./projects/cadmodel.png";
-import cadmodel_gif from "./projects/cadmodel.gif";
+import VideoPlayer from "react-video-js-player";
+import colourme from "./projects/colourme.mp4";
+import recycler from "./projects/recycler.mp4";
+import disdance from "./projects/disdance.mp4";
+import marblemod from "./projects/marblemod.mp4";
+import vbook from "./projects/vbook.mp4";
+import cadmodel from "./projects/cadmodel.mp4";
 
 function Projects(){
     return (
@@ -19,13 +14,17 @@ function Projects(){
                 <h1 className = "title-projects">My Projects</h1>
                 <h1 className = "desc-projects">hover over each project to view more!</h1>
             </div>
+
             <div className = "block">
+
             <div className = "row1">
                 <div className = "p1">
-                    <img className="colourme" src={colourme}/>
-                    <div className="colourme_gif">
-						<img src={colourme_gif} width = "200%" height = "auto"/>
-				    </div>
+                    <div class="frame">
+                    <div class="embed">
+                    <iframe width="560" height="315" src={colourme} frameborder="0" allowfullscreen>
+                    </iframe>
+                    </div>
+                    </div>    
                 </div> 
                 <h1 className = "t1">
                     ColourME is a colour palette generator designed to create the perfect palette for the user. 
@@ -35,10 +34,12 @@ function Projects(){
 
             <div className = "row2">
                 <div className = "p2">
-                    <img className="recycler" src={recycler}/>
-                    <div className="recycler_gif">
-						<img src={recycler_gif} width = "600px" height = "350px"/>
-				    </div>
+                    <div class="frame">
+                    <div class="embed">
+                    <iframe width="560" height="315" src={recycler} frameborder="0" allowfullscreen>
+                    </iframe>
+                    </div>
+                    </div>  
                 </div> 
                 <h1 className = "t2">
                     Recycler is a program that organizes recyclable containeers by using sensors to 
@@ -49,10 +50,7 @@ function Projects(){
 
             <div className = "row3">
                 <div className = "p3">
-                    <img className="disdance" src={disdance}/>
-                    <div className="disdance_gif">
-						<img src={disdance_gif} alt="gif" width = "600px" height = "350px"/>
-				    </div>
+
                 </div> 
                 <h1 className = "t3">
                     Social Disdance is a web application that allows you to play Just Dance online with friends.
@@ -62,10 +60,7 @@ function Projects(){
 
             <div className = "row4">
                 <div className = "p4">
-                    <img className="marblemod" src={marblemod}/>
-                    <div className="marblemod_gif">
-						<img src={marblemod_gif} width = "600px" height = "350px"/>
-				    </div>
+
                 </div> 
                 <h1 className = "t4">
                     Marble Mod adds decorative marble blocks into your Minecraft world. 
@@ -75,10 +70,7 @@ function Projects(){
 
             <div className = "row5">
                 <div className = "p5">
-                    <img className="vbook" src={vbook}/>
-                    <div className="vbook_gif">
-						<img src={vbook_gif} width = "600px" height = "350px"/>
-				    </div>
+
                 </div> 
                 <h1 className = "t5">
                     Vbook is a Facebook Messenger extension for speech to text chatting 
@@ -89,10 +81,7 @@ function Projects(){
 
             <div className = "row6">
                 <div className = "p6">
-                    <img className="cadmodel" src={cadmodel}/>
-                    <div className="cadmodel_gif">
-						<img src={cadmodel_gif} width = "600px" height = "350px"/>
-				    </div>
+
                 </div> 
                 <h1 className = "t6">
                     The surgical container was designed to be placed into an autoclave by a robotic arm to 
