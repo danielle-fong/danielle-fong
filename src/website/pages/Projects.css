@@ -62,9 +62,9 @@ clear: both;height:0;overflow:hidden;max-width:200%;height:auto}
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 120px;
-    margin-right: 120px;
-    margin-bottom: 50px;
+    margin-left: 9%;
+    margin-right: 9%;
+    padding-top: 6%;
 }
 
 .p2{
@@ -85,35 +85,17 @@ clear: both;height:0;overflow:hidden;max-width:200%;height:auto}
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 120px;
-    margin-right: 120px;
-    margin-bottom: 50px;
+    margin-left: 9%;
+    margin-right: 9%;
+    padding-top: 6%;
 }
 
 .p3{
+    float: left;
     position: relative;
-    top: 0;
-    left: 0;
-}
-
-.p3:hover .disdance_gif{
-    opacity: 1;
-}
-
-.disdance{
-    position: relative;
-    top: 0;
-    left: 0;
-    width: 600px;
-    height: 350px;
-}
-
-.disdance_gif{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    opacity: 0;
-    
+    height: auto;
+    width: 100%;
+    max-width: 10;
 }
 
 .t3{
@@ -126,35 +108,17 @@ clear: both;height:0;overflow:hidden;max-width:200%;height:auto}
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 120px;
-    margin-right: 120px;
-    margin-bottom: 50px;
+    margin-left: 9%;
+    margin-right: 9%;
+    padding-top: 6%;
 }
 
 .p4{
+    float: left;
     position: relative;
-    top: 0;
-    left: 0;
-}
-
-.p4:hover .marblemod_gif{
-    opacity: 1;
-}
-
-.marblemod{
-    position: relative;
-    top: 0;
-    left: 0;
-    width: 600px;
-    height: 350px;
-}
-
-.marblemod_gif{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    opacity: 0;
-    
+    height: auto;
+    width: 100%;
+    max-width: 10;
 }
 
 .t4{
@@ -167,35 +131,17 @@ clear: both;height:0;overflow:hidden;max-width:200%;height:auto}
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 120px;
-    margin-right: 120px;
-    margin-bottom: 50px;
+    margin-left: 9%;
+    margin-right: 9%;
+    padding-top: 6%;
 }
 
 .p5{
+    float: left;
     position: relative;
-    top: 0;
-    left: 0;
-}
-
-.p5:hover .vbook_gif{
-    opacity: 1;
-}
-
-.vbook{
-    position: relative;
-    top: 0;
-    left: 0;
-    width: 600px;
-    height: 350px;
-}
-
-.vbook_gif{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    opacity: 0;
-    
+    height: auto;
+    width: 100%;
+    max-width: 10;
 }
 
 .t5{
@@ -208,35 +154,17 @@ clear: both;height:0;overflow:hidden;max-width:200%;height:auto}
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 120px;
-    margin-right: 120px;
-    margin-bottom: 50px;
+    margin-left: 9%;
+    margin-right: 9%;
+    padding-top: 6%;
 }
 
 .p6{
+    float: left;
     position: relative;
-    top: 0;
-    left: 0;
-}
-
-.p6:hover .cadmodel_gif{
-    opacity: 1;
-}
-
-.cadmodel{
-    position: relative;
-    top: 0;
-    left: 0;
-    width: 600px;
-    height: 350px;
-}
-
-.cadmodel_gif{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    opacity: 0;
-    
+    height: auto;
+    width: 100%;
+    max-width: 10;
 }
 
 .t6{

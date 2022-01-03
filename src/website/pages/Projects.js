@@ -50,7 +50,12 @@ function Projects(){
 
             <div className = "row3">
                 <div className = "p3">
-
+                    <div class="frame">
+                    <div class="embed">
+                    <iframe width="560" height="315" src={disdance} frameborder="0" allowfullscreen>
+                    </iframe>
+                    </div>
+                    </div>
                 </div> 
                 <h1 className = "t3">
                     Social Disdance is a web application that allows you to play Just Dance online with friends.
@@ -60,7 +65,12 @@ function Projects(){
 
             <div className = "row4">
                 <div className = "p4">
-
+                    <div class="frame">
+                    <div class="embed">
+                    <iframe width="560" height="315" src={marblemod} frameborder="0" allowfullscreen>
+                    </iframe>
+                    </div>
+                    </div>
                 </div> 
                 <h1 className = "t4">
                     Marble Mod adds decorative marble blocks into your Minecraft world. 
@@ -70,7 +80,12 @@ function Projects(){
 
             <div className = "row5">
                 <div className = "p5">
-
+                    <div class="frame">
+                    <div class="embed">
+                    <iframe width="560" height="315" src={vbook} frameborder="0" allowfullscreen>
+                    </iframe>
+                    </div>
+                    </div>
                 </div> 
                 <h1 className = "t5">
                     Vbook is a Facebook Messenger extension for speech to text chatting 
@@ -81,7 +96,12 @@ function Projects(){
 
             <div className = "row6">
                 <div className = "p6">
-
+                    <div class="frame">
+                    <div class="embed">
+                    <iframe width="560" height="315" src={cadmodel} frameborder="0" allowfullscreen>
+                    </iframe>
+                    </div>
+                    </div>
                 </div> 
                 <h1 className = "t6">
                     The surgical container was designed to be placed into an autoclave by a robotic arm to 
