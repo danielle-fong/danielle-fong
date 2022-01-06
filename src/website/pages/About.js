@@ -1,6 +1,7 @@
 import "./About.css";
 import school from "./pictures/school.png";
 import travel from "./pictures/travel.png";
+import food from "./pictures/food.png";
 import dog from "./pictures/dog.png";
 import music from "./pictures/music.png";
 
@@ -24,7 +25,7 @@ function About(){
                 </div>
 
                 <div className = "food">
-                    <img className="pic3" src={dog}/>
+                    <img className="pic3" src={food}/>
                     <h3 className = "text3">I enjoy cooking, baking, and experimenting with new recipes</h3>
 
                 </div>
