@@ -1,11 +1,10 @@
 import "./Projects.css";
-import VideoPlayer from "react-video-js-player";
-import colourme from "./projects/colourme.mp4";
-import recycler from "./projects/recycler.mp4";
-import disdance from "./projects/disdance.mp4";
-import marblemod from "./projects/marblemod.mp4";
-import vbook from "./projects/vbook.mp4";
-import cadmodel from "./projects/cadmodel.mp4";
+import colourme from "./projects/colourme.gif";
+import recycler from "./projects/recycler.gif";
+import disdance from "./projects/disdance.gif";
+import marblemod from "./projects/marblemod.gif";
+import vbook from "./projects/vbook.gif";
+import cadmodel from "./projects/cadmodel.gif";
 
 function Projects(){
     return (
@@ -18,13 +17,8 @@ function Projects(){
             <div className = "block">
 
             <div className = "row1">
-                <div className = "p1">
-                    <div class="frame">
-                    <div class="embed">
-                    <iframe width="560" height="315" src={colourme} frameborder="0" allowfullscreen>
-                    </iframe>
-                    </div>
-                    </div>    
+                <div id = "p1">
+                    <img src={colourme} width="150" height="200" alt=""></img>
                 </div> 
                 <h1 className = "t1">
                     ColourME is a colour palette generator designed to create the perfect palette for the user. 
@@ -33,13 +27,8 @@ function Projects(){
             </div>
 
             <div className = "row2">
-                <div className = "p2">
-                    <div class="frame">
-                    <div class="embed">
-                    <iframe width="560" height="315" src={recycler} frameborder="0" allowfullscreen>
-                    </iframe>
-                    </div>
-                    </div>  
+                <div id = "p2">
+                    <img src={recycler} width="150" height="200" alt=""></img>
                 </div> 
                 <h1 className = "t2">
                     Recycler is a program that organizes recyclable containeers by using sensors to 
@@ -49,13 +38,8 @@ function Projects(){
             </div>
 
             <div className = "row3">
-                <div className = "p3">
-                    <div class="frame">
-                    <div class="embed">
-                    <iframe width="560" height="315" src={disdance} frameborder="0" allowfullscreen>
-                    </iframe>
-                    </div>
-                    </div>
+                <div id = "p3">
+                    <img src={disdance} width="150" height="200" alt=""></img>
                 </div> 
                 <h1 className = "t3">
                     Social Disdance is a web application that allows you to play Just Dance online with friends.
@@ -64,13 +48,8 @@ function Projects(){
             </div>
 
             <div className = "row4">
-                <div className = "p4">
-                    <div class="frame">
-                    <div class="embed">
-                    <iframe width="560" height="315" src={marblemod} frameborder="0" allowfullscreen>
-                    </iframe>
-                    </div>
-                    </div>
+                <div id = "p4">
+                    <img src={marblemod} width="150" height="200" alt=""></img>
                 </div> 
                 <h1 className = "t4">
                     Marble Mod adds decorative marble blocks into your Minecraft world. 
@@ -79,13 +58,8 @@ function Projects(){
             </div>
 
             <div className = "row5">
-                <div className = "p5">
-                    <div class="frame">
-                    <div class="embed">
-                    <iframe width="560" height="315" src={vbook} frameborder="0" allowfullscreen>
-                    </iframe>
-                    </div>
-                    </div>
+                <div id = "p5">
+                    <img src={vbook} width="150" height="200" alt=""></img>
                 </div> 
                 <h1 className = "t5">
                     Vbook is a Facebook Messenger extension for speech to text chatting 
@@ -95,13 +69,8 @@ function Projects(){
             </div>
 
             <div className = "row6">
-                <div className = "p6">
-                    <div class="frame">
-                    <div class="embed">
-                    <iframe width="560" height="315" src={cadmodel} frameborder="0" allowfullscreen>
-                    </iframe>
-                    </div>
-                    </div>
+                <div id = "p6">
+                    <img src={cadmodel} width="150" height="200" alt=""></img>
                 </div> 
                 <h1 className = "t6">
                     The surgical container was designed to be placed into an autoclave by a robotic arm to 
