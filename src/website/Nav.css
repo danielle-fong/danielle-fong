@@ -1,8 +1,8 @@
 
 .nav-container {
-	background: #6e8492;
+	background: rgb(184, 201, 188);
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-	height: 100px;
+	height: 150%;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -11,18 +11,18 @@
 
 .link-wrapper {
 	display: flex;
-	width:38%;
-	font-size: 13px;
+	width:45%;
+	font-size: 1vw;
 }
 
 .nav-link {
-	margin: 15px;
+	margin: 5%;
 	text-decoration: none;
-	color: whitesmoke;
+	color: rgb(255, 255, 255);
 }
 
 .logo {
-	max-width: 90px;
+	max-width: 15%;
 	align-content: center;
 	padding-left: 20px;
 }
