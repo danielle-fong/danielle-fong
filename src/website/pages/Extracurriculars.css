@@ -23,9 +23,10 @@
 
 .extra{
     background-color: rgb(80, 107, 95);
-    color: whitesmoke;
+    color: rgb(255, 255, 255);
     height: 100%;
     font-family: pt sans;
+    padding-bottom: 5%;
 }
 
 .heading-extra{

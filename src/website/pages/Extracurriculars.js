@@ -19,7 +19,7 @@ function Extracurriculars(){
             <h1 className = "heading-extra">LEADERSHIP</h1>
                     <div className = "b1">
                     <h1 className = "e1">Frosh Leader, Hamilton Chinese Christian Fellowship</h1>
-                    <h1 className = "y1">2021</h1>
+                    <h1 className = "y1">2021-2022</h1>
                 </div>
                 <img className="pc1" src={frosh}/>
 
