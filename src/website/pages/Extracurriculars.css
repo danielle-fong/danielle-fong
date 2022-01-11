@@ -1,10 +1,10 @@
 .header-extra{
-    background-color: whitesmoke;
+    background-color: rgb(255, 255, 255);
     height: 290px;
 }
 
 .title-extra{
-    color: #6e8492;
+    color: rgb(135, 167, 143);
     font-size: 60px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     justify-content: center;
@@ -22,7 +22,7 @@
 }
 
 .extra{
-    background-color: #6e8492;
+    background-color: rgb(80, 107, 95);
     color: whitesmoke;
     height: 100%;
     font-family: pt sans;

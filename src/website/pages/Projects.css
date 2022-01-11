@@ -1,10 +1,10 @@
 .header-projects{
-    background-color: whitesmoke;
+    background-color: rgb(255, 255, 255);
     height: 290px;
 }
 
 .title-projects{
-    color: #6e8492;
+    color: rgb(135, 167, 143);
     font-size: 60px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     justify-content: center;
@@ -22,7 +22,7 @@
 }
 
 .block{
-    background-color: #6e8492;
+    background-color: rgb(80, 107, 95);
     color: whitesmoke;
     height: 100%;
     text-align: center;
@@ -175,6 +175,7 @@
     margin-left: 9%;
     margin-right: 9%;
     padding-top: 6%;
+    padding-bottom: 6%;
 }
 
 #p6 {
